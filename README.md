@@ -226,7 +226,7 @@
 ---
 
 
-### 🚀 Projects during my studies at HES-So - Sierre
+### Projects during my studies at HES-So - Sierre
 
 <table>
   <tr>
