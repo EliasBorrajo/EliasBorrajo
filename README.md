@@ -184,14 +184,14 @@
     </td>
     <!-- C -->
     <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+c+language%3AC&type=repositories">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+language%3AC&type=repositories">
         <img src="https://skillicons.dev/icons?i=c" width="40"><br/>
         <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=white"/>
       </a>
     </td>
     <!-- C++ -->
     <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+c%2B%2B&type=repositories">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+cpp%2B%2B&type=repositories">
         <img src="https://skillicons.dev/icons?i=cpp" width="40"><br/>
         <img src="https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=white"/>
       </a>
