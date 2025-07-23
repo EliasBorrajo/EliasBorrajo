@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi, I'm Elias 👋</h1>
 
-<h2 align="center">
+<h3 align="center">
   Junior full‑stack developer based in Switzerland
-</h2>
+</h3>
 
 ---
+
 
 ### Languages
 <table style="border-collapse:collapse;border:none;">
@@ -229,36 +230,48 @@
 
 <table>
   <tr>
-    <th align="left">Project & Why I’m proud</th>
+    <th align="left">Project</th>
     <th align="left">Key learnings</th>
     <th align="left">Links</th>
   </tr>
+
+  <!-- SectraPacs -->
   <tr>
     <td width="33%">
       <b>SectraPacs (Bachelor thesis)</b><br/>
-      Streamlined medical image review for clinicians 📱
+      - Streamlined medical image review for clinicians 📱
+      <details>
+        <summary>Why I'm proud 🔽</summary>
+        Replaced legacy workstation, improved UX for radiologists, presented to a jury of 5 clinicians.
+      </details>
     </td>
     <td width="33%">
-      🩻 DICOM parsing • 🔗 REST API • 🧪 E2E tests
+      🩻 DICOM • 🔗 REST API • 🧪 E2E tests
     </td>
     <td width="33%">
       <a href="https://github.com/EliasBorrajo/SectraPacs-Frontend">Frontend</a> •
       <a href="https://github.com/EliasBorrajo/SectraPacs-Backend">Backend</a>
     </td>
   </tr>
+  <!-- SectraPacs -->
   <tr>
-    <td>
-      <b>FitnessCheck</b><br/>
-      First production‑ready mobile tracker (2 k+ installs)
+    <td width="33%">
+      <b>SectraPacs (Bachelor thesis)</b><br/>
+      - Streamlined medical image review for clinicians 📱
+      <details>
+        <summary>Why I'm proud 🔽</summary>
+        Replaced legacy workstation, improved UX for radiologists, presented to a jury of 5 clinicians.
+      </details>
     </td>
-    <td>
-      🔐 OAuth • 🔥 Firebase sync • 📦 CI/CD Expo
+    <td width="33%">
+      🩻 DICOM • 🔗 REST API • 🧪 E2E tests
     </td>
-    <td>
-      <a href="https://github.com/EliasBorrajo/FitnessCheck">Repo</a>
+    <td width="33%">
+      <a href="https://github.com/EliasBorrajo/SectraPacs-Frontend">Frontend</a> •
+      <a href="https://github.com/EliasBorrajo/SectraPacs-Backend">Backend</a>
     </td>
   </tr>
-  <!-- autres projets… -->
+  
 </table>
 
 ---
@@ -276,25 +289,34 @@
 -->
 
 
-### 📫 Reach me
-<table style="border-collapse:collapse;border:none;">
-  <tr>
-    <!-- LinkedIn complet -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="https://www.linkedin.com/in/elias-borrajo/">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" alt="LinkedIn icon" /><br/>
-        <img src="https://img.shields.io/badge/LinkedIn-elias--borrajo-05122A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn – elias-borrajo" />
-      </a>
-    </td>
-    <!-- Email complet -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="mailto:borrajo.elias@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Email icon" /><br/>
-        <img src="https://img.shields.io/badge/Email-borrajo.elias@gmail.com-05122A?style=flat&logo=gmail&logoColor=white" alt="Email – borrajo.elias@gmail.com" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 8px;">
+  <h3>📫 Reach me</h3>
+  <table style="border-collapse:collapse;border:none;">
+    <tr>
+      <!-- LinkedIn complet -->
+      <td align="center" style="border:none;padding:6px;">
+        <a href="https://www.linkedin.com/in/elias‑borrajo/">
+          <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" alt="LinkedIn icon" /><br/>
+          <img src="https://img.shields.io/badge/LinkedIn-elias--borrajo-05122A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn – elias-borrajo" />
+        </a>
+      </td>
+      <!-- Email complet -->
+      <td align="center" style="border:none;padding:6px;">
+        <a href="mailto:borrajo.elias@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Email icon" /><br/>
+          <img src="https://img.shields.io/badge/Email-borrajo.elias@gmail.com-05122A?style=flat&logo=gmail&logoColor=white" alt="Email – borrajo.elias@gmail.com" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <em>Thanks for scrolling ✨</em>
+</div>
+<hr style="margin-top: 10px; border: 0; height: 1px; background: #444; width: 60%;" />
+
+
 
 
 
