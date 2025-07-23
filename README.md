@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Elias 👋</h1>
 
-<p align="center">
+<h2 align="center">
   Junior full‑stack developer based in Switzerland
-</p>
+</h2>
 
 ---
 
@@ -172,7 +172,7 @@
   </tr>
 </table>
 
-#### Electronics related
+### Electronics related
 <table style="border-collapse:collapse;border:none;">
   <tr>
     <!-- Arduino -->
@@ -225,40 +225,40 @@
 ---
 
 
-### 🚀 Projects
+### 🚀 Projects during my studies at HES-So - Sierre
 
 <table>
   <tr>
-    <!-- Colonne 1 : Bachelor project -->
-    <td valign="top" width="50%">
-      <h4 align="center">🎓 Bachelor Thesis – SectraPacs</h4>
-
-      * **<a href="https://github.com/EliasBorrajo/SectraPacs-Frontend">SectraPacs Frontend</a>**  
-        *Flutter · Dart* — Medical imaging UI connected to Sectra PACS.
-
-      * **<a href="https://github.com/EliasBorrajo/SectraPacs-Backend">SectraPacs Backend</a>**  
-        *ASP.NET Core · C#* — REST API bridging hospital PACS with mobile client.
-
-      <sub>Goal : streamline radiology image review for clinicians on tablets.</sub>
+    <th align="left">Project & Why I’m proud</th>
+    <th align="left">Key learnings</th>
+    <th align="left">Links</th>
+  </tr>
+  <tr>
+    <td width="33%">
+      <b>SectraPacs (Bachelor thesis)</b><br/>
+      Streamlined medical image review for clinicians 📱
     </td>
-
-    <!-- Colonne 2 : autres projets -->
-    <td valign="top" width="50%">
-      <h4 align="center">🌟 Other Projects I’m Proud Of</h4>
-
-      * **<a href="https://github.com/EliasBorrajo/FitnessCheck">FitnessCheck</a>**  
-        *Flutter · Firebase* — First production‑ready mobile tracker; 2 k+ installs.
-
-      * **<a href="https://github.com/EliasBorrajo/CookingApp">CookingApp</a>**  
-        *React Native · NoSQL* — My UI/UX playground; learned CI/CD with Expo.
-
-      * **<a href="https://github.com/EliasBorrajo/FirstAndroidApp">FirstAndroidApp</a>**  
-        *Android · Java* — My very first Android project; laid the foundation of my mobile skills.
-
-      * **<a href="https://github.com/EliasBorrajo/DockerizedAspNetTemplate">DockerizedAspNetTemplate</a>**  
-        *ASP.NET · Docker* — Boilerplate I still reuse; proud of the clean architecture.
+    <td width="33%">
+      🩻 DICOM parsing • 🔗 REST API • 🧪 E2E tests
+    </td>
+    <td width="33%">
+      <a href="https://github.com/EliasBorrajo/SectraPacs-Frontend">Frontend</a> •
+      <a href="https://github.com/EliasBorrajo/SectraPacs-Backend">Backend</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <b>FitnessCheck</b><br/>
+      First production‑ready mobile tracker (2 k+ installs)
+    </td>
+    <td>
+      🔐 OAuth • 🔥 Firebase sync • 📦 CI/CD Expo
+    </td>
+    <td>
+      <a href="https://github.com/EliasBorrajo/FitnessCheck">Repo</a>
+    </td>
+  </tr>
+  <!-- autres projets… -->
 </table>
 
 ---
