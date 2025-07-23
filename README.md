@@ -3,8 +3,7 @@
 <h1 align="center">Hi, I'm Elias 👋</h1>
 
 <p align="center">
-  🇨🇭 Full‑stack developer based in Switzerland<br/>
-  Clean‑code enthusiast &bull; Parkour & sports lover
+  Junior full‑stack developer based in Switzerland
 </p>
 
 ---
@@ -264,21 +263,40 @@
 
 ---
 
-### 📊 GitHub Stats
+
 <!--
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EliasBorrajo&show_icons=true&hide=issues&theme=default" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliasBorrajo&hide_border=true" width="48%"/>
 </p>
--->
+
 ---
+-->
 
-### 📫 Reach me
 
-<a href="https://www.linkedin.com/in/elias-borrajo/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>
-</a>
-<br/>
-<a href="mailto:borrajo.elias@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/borrajo.elias@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
+### 📫 Reach me
+<table style="border-collapse:collapse;border:none;">
+  <tr>
+    <!-- LinkedIn complet -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://www.linkedin.com/in/elias-borrajo/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" alt="LinkedIn icon" /><br/>
+        <img src="https://img.shields.io/badge/LinkedIn-elias--borrajo-05122A?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn – elias-borrajo" />
+      </a>
+    </td>
+    <!-- Email complet -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="mailto:borrajo.elias@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Email icon" /><br/>
+        <img src="https://img.shields.io/badge/Email-borrajo.elias@gmail.com-05122A?style=flat&logo=gmail&logoColor=white" alt="Email – borrajo.elias@gmail.com" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
