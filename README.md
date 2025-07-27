@@ -226,53 +226,95 @@
 ---
 
 
-### Projects during my studies at HES-So - Sierre
+### Projects during my studies 
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Key learnings</th>
-    <th align="left">Links</th>
-  </tr>
 
-  <!-- SectraPacs -->
-  <tr>
-    <td width="33%">
-      <b>SectraPacs (Bachelor thesis)</b><br/>
-      - Streamlined medical image review for clinicians 📱
-      <details>
-        <summary>Why I'm proud 🔽</summary>
-        Replaced legacy workstation, improved UX for radiologists, presented to a jury of 5 clinicians.
-      </details>
-    </td>
-    <td width="33%">
-      🩻 DICOM • 🔗 REST API • 🧪 E2E tests
-    </td>
-    <td width="33%">
-      <a href="https://github.com/EliasBorrajo/SectraPacs-Frontend">Frontend</a> •
-      <a href="https://github.com/EliasBorrajo/SectraPacs-Backend">Backend</a>
-    </td>
-  </tr>
-  <!-- SectraPacs -->
-  <tr>
-    <td width="33%">
-      <b>SectraPacs (Bachelor thesis)</b><br/>
-      - Streamlined medical image review for clinicians 📱
-      <details>
-        <summary>Why I'm proud 🔽</summary>
-        Replaced legacy workstation, improved UX for radiologists, presented to a jury of 5 clinicians.
-      </details>
-    </td>
-    <td width="33%">
-      🩻 DICOM • 🔗 REST API • 🧪 E2E tests
-    </td>
-    <td width="33%">
-      <a href="https://github.com/EliasBorrajo/SectraPacs-Frontend">Frontend</a> •
-      <a href="https://github.com/EliasBorrajo/SectraPacs-Backend">Backend</a>
-    </td>
-  </tr>
-  
+# Projects During My Studies at HES-So
+
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th><strong>Domain &amp; Context</strong></th>
+      <th><strong>Tech Stack</strong></th>
+      <th><strong>Key Projects &amp; Skills Acquired</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎓 Bachelor Thesis - Medical Software</td>
+      <td>
+        <ul>
+            <li>Flutter Web</li>
+            <li>C# ASP.NET Core</li>
+            <li>Docker</li>
+            <li>REST API</li>
+            <li>Nginx</li>
+          </ul>
+      </td>
+      <td>
+        <b><a href="https://github.com/stars/EliasBorrajo/lists/bachelor-thesis" target="_blank">SectraPlugin (Frontend + Backend)</a></b>:
+        Full-stack & layered architecture, 3-tier design, Docker containerization, medical PACS plugin integration
+      </td>
+    </tr>
+    <tr>
+      <td>🌐 Full-Stack Web &amp; Mobile Development</td>
+      <td>
+        <ul>
+          <li>React</li>
+          <li>Flutter</li>
+          <li>Android (Room/Firebase)</li>
+          <li>ASP.NET MVC</li>
+          <li>Java EE / Jakarta EE</li>
+        </ul>
+      </td>      
+      <td>
+        <b><a href="https://github.com/EliasBorrajo/FitnessCheckProject" target="_blank">FitnessCheck</a>,
+           <a href="https://github.com/EliasBorrajo/Expo-Nomade" target="_blank">ExpoNomade</a>, 
+           <a href="https://github.com/EliasBorrajo/HES_644-1_MobileDev_CookingApp" target="_blank">CookingApp</a>, 
+           <a href="https://github.com/EliasBorrajo/VsEat-Livraison-de-nourriture-BERZ" target="_blank">VsEat</a>,
+           <a href="https://github.com/EliasBorrajo/Football-Manager" target="_blank">FootballManager</a></b>:
+        MVC/MVVM patterns, state management, SQL/NoSQL databases, mobile-first design
+      </td>
+    </tr>
+    <tr>
+      <td>🔧 Systems Programming &amp; Security</td>
+      <td>
+        <ul>
+          <li>Java (Swing / CLI)</li>
+          <li>.NET WinForms</li>
+          <li>Cryptography</li>
+          <li>Scala</li>
+        </ul>
+      </td>      
+      <td>
+        <b> <a href="https://github.com/EliasBorrajo/Smartphone-Simulator" target="_blank">Smartphone Simulator</a> 
+            <a href="https://github.com/EliasBorrajo/PictureEditor" target="_blank">PictureEditor</a>, 
+            <a href="https://github.com/EliasBorrajo/Shamir-s-secret-sharing" target="_blank">Shamir Secret Sharing</a>,
+            <a href="https://github.com/EliasBorrajo/White-Wine" target="_blank">WhiteWine</a></b>: 
+        TDD methodology, functional programming, cryptographic algorithms, desktop UI patterns, data analyse
+      </td>
+    </tr>
+    <tr>
+      <td>⚡ Real-Time &amp; Interactive Systems</td>
+      <td>
+        <ul>
+          <li>Java Sockets</li>
+          <li>P2P Networks</li>
+          <li>JavaScript (Canvas/WebGL)</li>
+        </ul>
+      </td>      <td>
+        <b><a href="https://github.com/EliasBorrajo/Spotify-Home-Sharing" target="_blank">Spotify Home Sharing</a>,
+           <a href="https://github.com/EliasBorrajo/RIA-Game---Xolo-the-survivor" target="_blank">Xolo the Survivor</a></b>: 
+        Distributed systems, peer-to-peer communication, real-time data synchronization, interactive gaming
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+
+
+**Architecture Patterns**: MVC/MVVM • 3-tier applications • Layered architecture • Microservices separation (Frontend/Backend)
+**Core Technical Competencies**: REST API design • Real-time communication (Sockets, P2P) • Test-driven development • Functional & OOP programming paradigms • Cross-platform development
 
 ---
 
