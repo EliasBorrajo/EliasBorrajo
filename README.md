@@ -231,6 +231,7 @@
 
 # Projects During My Studies at HES-So
 
+<div style="overflow-x: auto; max-width: 100%;">
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -310,6 +311,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 
 
