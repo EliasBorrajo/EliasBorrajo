@@ -92,7 +92,7 @@
     <td align="center" style="border:none;padding:6px;">
       <a href="https://github.com/search?q=user%3AEliasBorrajo+angular&type=repositories">
         <img src="https://skillicons.dev/icons?i=angular" width="40"><br/>
-        <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=white"/>
       </a>
     </td>
   </tr>
