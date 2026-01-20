@@ -60,6 +60,13 @@
         <img src="https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet&logoColor=white"/>
       </a>
     </td>
+    <!-- Next.js -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+nextjs&type=repositories">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40"><br/>
+        <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=white"/>
+      </a>
+    </td>
     <!-- Flutter -->
     <td align="center" style="border:none;padding:6px;">
       <a href="https://github.com/search?q=user%3AEliasBorrajo+dart&type=repositories">
@@ -72,6 +79,13 @@
       <a href="https://github.com/search?q=user%3AEliasBorrajo+reactjs&type=repositories">
         <img src="https://skillicons.dev/icons?i=react" width="40"><br/>
         <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white"/>
+      </a>
+    </td>
+    <!-- Tailwind CSS -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+tailwind&type=repositories">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40"><br/>
+        <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=white"/>
       </a>
     </td>
     <!-- Android Studio -->
@@ -125,6 +139,41 @@
   </tr>
 </table>
 
+### Databases & ORM
+<table style="border-collapse:collapse;border:none;">
+  <tr>
+    <!-- MS SQL Server -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+microsoft+sql+server&type=repositories">
+        <img src="https://skillicons.dev/icons?i=sqlserver" width="40"><br/>
+        <img src="https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft+sql+server&logoColor=white"/>
+      </a>
+    </td>
+    <!-- Firebase -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+firebase&type=repositories">
+        <img src="https://skillicons.dev/icons?i=firebase" width="40"><br/>
+        <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=white"/>
+      </a>
+    </td>
+    <!-- PostgreSQL -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+postgres&type=repositories">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40"><br/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white"/>
+      </a>
+    </td>
+    <!-- Drizzle ORM -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+drizzle&type=repositories">
+        <img src="https://skillicons.dev/icons?i=ts" width="40"><br/>
+        <img src="https://img.shields.io/badge/-Drizzle%20ORM-05122A?style=flat&logo=drizzle&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ### OS & Ecosystem
 <table style="border-collapse:collapse;border:none;">
   <tr>
@@ -142,25 +191,11 @@
         <img src="https://img.shields.io/badge/-NixOS-05122A?style=flat&logo=nixos&logoColor=white"/>
       </a>
     </td>
-    <!-- Firebase -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+firebase&type=repositories">
-        <img src="https://skillicons.dev/icons?i=firebase" width="40"><br/>
-        <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=white"/>
-      </a>
-    </td>
     <!-- Azure -->
     <td align="center" style="border:none;padding:6px;">
       <a href="https://github.com/search?q=user%3AEliasBorrajo+azure&type=repositories">
         <img src="https://skillicons.dev/icons?i=azure" width="40"><br/>
         <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure&logoColor=white"/>
-      </a>
-    </td>
-    <!-- MS SQL Server -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+microsoft+sql+server&type=repositories">
-        <img src="https://skillicons.dev/icons?i=sqlserver" width="40"><br/>
-        <img src="https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft+sql+server&logoColor=white"/>
       </a>
     </td>
     <!-- SAP -->
@@ -231,6 +266,10 @@
 
 
 ---
+
+## Current project (The Corner)
+**Stack:** Next.js • React • TailwindCSS • PostgreSQL • Drizzle ORM  
+Repo: https://github.com/the-corner-inc/better-auth-tasks
 
 
 ### Projects during my studies 
