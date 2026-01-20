@@ -112,33 +112,6 @@
   </tr>
 </table>
 
-### DevOps
-<table style="border-collapse:collapse;border:none;">
-  <tr>
-    <!-- Git -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+git&type=repositories">
-        <img src="https://skillicons.dev/icons?i=git" width="40"><br/>
-        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white"/>
-      </a>
-    </td>
-    <!-- Docker -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+docker&type=repositories">
-        <img src="https://skillicons.dev/icons?i=docker" width="40"><br/>
-        <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white"/>
-      </a>
-    </td>
-    <!-- Nginx -->
-    <td align="center" style="border:none;padding:6px;">
-      <a href="https://github.com/search?q=user%3AEliasBorrajo+nginx&type=repositories">
-        <img src="https://skillicons.dev/icons?i=nginx" width="40"><br/>
-        <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ### Databases & ORM
 <table style="border-collapse:collapse;border:none;">
   <tr>
@@ -173,6 +146,32 @@
   </tr>
 </table>
 
+### DevOps
+<table style="border-collapse:collapse;border:none;">
+  <tr>
+    <!-- Git -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+git&type=repositories">
+        <img src="https://skillicons.dev/icons?i=git" width="40"><br/>
+        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white"/>
+      </a>
+    </td>
+    <!-- Docker -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+docker&type=repositories">
+        <img src="https://skillicons.dev/icons?i=docker" width="40"><br/>
+        <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white"/>
+      </a>
+    </td>
+    <!-- Nginx -->
+    <td align="center" style="border:none;padding:6px;">
+      <a href="https://github.com/search?q=user%3AEliasBorrajo+nginx&type=repositories">
+        <img src="https://skillicons.dev/icons?i=nginx" width="40"><br/>
+        <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### OS & Ecosystem
 <table style="border-collapse:collapse;border:none;">
@@ -267,12 +266,9 @@
 
 ---
 
-## Current project (The Corner)
+# Current project (The Corner)
 **Stack:** Next.js • React • TailwindCSS • PostgreSQL • Drizzle ORM  
 Repo: https://github.com/the-corner-inc/better-auth-tasks
-
-
-### Projects during my studies 
 
 
 # Projects During My Studies at HES-So
